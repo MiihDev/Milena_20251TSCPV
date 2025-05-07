@@ -4,3 +4,4 @@ Repositório da turma 1TSCPV de 2025
 #Este projeto inicial vai servir como base
 
 alteração feita localmente
+alteração feita remotamente
